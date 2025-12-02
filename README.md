@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waseem Mohammed
 
-##  About Me
+## About Me
 Computer Science student entering the job market  
 Interested in Web Development, Programming, and Artificial Intelligence  
 Skilled in C++, HTML, CSS, JS, Python, and Assembly  
@@ -26,19 +26,10 @@ Building creative and efficient solutions ✨
 
 ## ⚡ GitHub Stats  
 
-<!-- GitHub Stats -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wwaseemmohammed&show_icons=true&theme=gruvbox" />
 
 <br/><br/><br/><br/>
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwaseemmohammed&layout=compact&theme=gruvbox" />
 
-<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=wwaseemmohammed&theme=gruvbox" />
-
-<!-- Wakatime -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wwaseemmohammed&theme=gruvbox" />
-
-<!-- Visitor Badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wwaseemmohammed" />
