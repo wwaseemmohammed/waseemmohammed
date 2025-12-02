@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waseem Mohammed
 
-##  About Me
+## 🚀 About Me
 Computer Science student entering the job market  
 Interested in Web Development, Programming, and Artificial Intelligence  
 Skilled in C++, HTML, CSS, JS, Python, and Assembly  
@@ -11,7 +11,7 @@ Building creative and efficient solutions ✨
 [Facebook](https://www.facebook.com/share/1GxWMj2F8M/)  
 [Instagram](https://www.instagram.com/lll.wwwaseem?igsh=N3YyNjJkZzE5cmFs)  
 
-##  Languages & Tools
+## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)
@@ -21,9 +21,14 @@ Building creative and efficient solutions ✨
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
 ## ⚡ GitHub Stats  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wwaseemmohammed&show_icons=true&count_private=true&theme=gruvbox" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwaseemmohammed&layout=compact&count_private=true&theme=gruvbox" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=wwaseemmohammed&theme=gruvbox)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wwaseemmohammed&theme=gruvbox)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wwaseemmohammed.wwaseemmohammed)
